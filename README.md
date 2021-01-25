@@ -2,7 +2,7 @@
 
 Projeto contribuição para projeto de Automação e Assitente Residencial.
 
-Para Utilizar : [**Acesse Aqui**](https://EdgarOlv.github.io/TextoVoz/)
+Para Utilizar : [**Acesse Aqui**](https://https://github.com/EdgarOlv/TextoVoz)
 
 <br>
 
